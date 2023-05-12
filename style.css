@@ -1,0 +1,53 @@
+
+    .container {
+      margin-top: 50px;
+
+    }
+    h1 {
+      margin-bottom: 20px;
+    }
+    #search {
+      margin-bottom: 20px;
+    }
+    .fa-heart{
+      color: darkred;
+      cursor: pointer;
+    }
+    #favorites-list {
+      margin-bottom: 10px;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px;
+    }
+    .favorite button {
+      margin-left: 10px;
+    }
+    .list-group-item{
+      background-color: black;
+      color: white;
+      font-family: monospace;
+      border: 1px solid rgba(238, 233, 233, 0.13);
+    }
+    
+    .list-group-item img {
+  max-width: 100px;
+  margin-right: 10px;
+}
+body {
+  padding-top: 70px; 
+  background-color: black;
+  color: white;
+}
+.col-md-8{                   
+  background-color: black;//Sets the background color to black with font color to white, and font family to monospace.
+  color:white;
+  font-family: monospace;
+/*  border: 1px solid rgba(238, 233, 233, 0.13);*/
+
+}
+.bg-light {
+  background-color: #263039 !important;//Sets the background color to #263039 for elements with the bg-light class.
+  color: white;
+    }

@@ -1,0 +1,23 @@
+
+    .container {
+      margin-top: 50px;
+    }
+
+    img {
+      max-width: 100%;
+      margin-bottom: 20px;
+    }
+    body {
+      padding-top: 70px; 
+      background-color: black;
+      color: white;
+      
+  }
+  .bg-light {
+  background-color: #263039 !important;
+}
+.col-md-8{
+  background-color: black;
+  color:whitesmoke;
+  font-family: monospace;
+}
