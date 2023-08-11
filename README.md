@@ -64,9 +64,7 @@ To run this project, you'll need:
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 ```
 
 Replace `<repository_url>` with the actual URL of your GitHub repository. Customize the content as needed to accurately reflect your project and provide clear instructions for users and contributors. Make sure to include information about installation, usage, and how others can contribute to the project.
