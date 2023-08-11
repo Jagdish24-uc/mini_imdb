@@ -1,6 +1,4 @@
-Certainly! A README file is an important part of any project as it provides essential information about the project, how to set it up, and how to use it. Below is an example of a README file for your IMDb clone project using the OMDB API. You can customize and expand upon it according to your needs:
 
-```markdown
 # IMDb Clone using OMDB API
 
 This is an IMDb clone project that utilizes the OMDB API to allow users to search for movies, view search results, and manage their favorite movies. Users can also view detailed movie information by clicking on a movie from the search results.
