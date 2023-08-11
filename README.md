@@ -12,7 +12,7 @@ This is an IMDb clone project that utilizes the OMDB API to allow users to searc
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
