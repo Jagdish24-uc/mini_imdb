@@ -16,7 +16,7 @@ This is an IMDb clone project that utilizes the OMDB API to allow users to searc
 
 ## Project Overview
 
-The IMDb clone project is a web application that provides a user interface for interacting with the OMDB API. It allows users to search for movies using keywords and view detailed information about movies, including posters, titles, years, genres, directors, actors, plots, ratings, awards, and more.
+The IMDb clone project is a web application that provides a user interface for interacting with the OMDB API. It allows users to search for movies using keywords and view detailed information about movies, including posters, titles, years, genres, directors, actors, plots, ratings, awards, and more.   https://jagdish24-uc.github.io/mini_imdb/
 
 ## Features
 
